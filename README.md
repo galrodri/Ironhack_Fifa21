@@ -2,8 +2,7 @@
 
 # Project details: FIFA - MoneyBall
 
-<!-- ![Project Banner: FIFA](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO.jpg) -->
-![Alt text](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO.jpg "Title")
+![Alt text](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO.jpg "Image")
 
 ## The challenge
 
@@ -87,7 +86,6 @@ This data set includes:
 - A well-commented Jupyter notebook with your analysis.
 - The final dataset after all cleaning and transformations.
 - Repository with your workflow + documentation + code.
-- Visual documentation of Kanban or Trello board link.
 
 ## Tips & Tricks
 
