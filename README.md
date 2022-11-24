@@ -3,6 +3,7 @@
 # Project details: FIFA - MoneyBall
 
 <!-- ![Project Banner: FIFA](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO.jpg) -->
+![Alt text](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO.jpg "Title")
 
 ## The challenge
 
