@@ -1,8 +1,8 @@
-# project-fifa-moneyball
+# IronHack Data Analytics Bootcamp
 
 # Project details: FIFA - MoneyBall
 
-<!-- ![Project Banner: FIFA](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/project+banners/fifa-project.jpg) -->
+<!-- ![Project Banner: FIFA](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO.jpg) -->
 
 ## The challenge
 
